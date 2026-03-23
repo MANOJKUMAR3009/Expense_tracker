@@ -1,1 +1,1 @@
-# Expense_tracker
+This Project is developed using React.js in frontend,Springboot in backend,Mysql for Database Management.the project is designed to calculate the expense of the user and showing the users transactons in histogram intended to give the user the best way for analysing the expenses
